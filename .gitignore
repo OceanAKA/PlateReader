@@ -4,4 +4,3 @@ __pycache__/
 _*.png
 _dbg/
 crops/
-models/*.pt
