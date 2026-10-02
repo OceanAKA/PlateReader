@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+_*.png
+_dbg/
+crops/
+models/*.pt

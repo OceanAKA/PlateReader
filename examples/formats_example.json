@@ -1,0 +1,5 @@
+[
+  {"region": "us-ca", "name": "California passenger", "mask": "DLLLDDD", "example": "1ABC234"},
+  {"region": "us-ca", "name": "California commercial", "mask": "DLDDDDD", "example": "1A23456"},
+  {"region": "custom", "name": "Site parking permit", "mask": "LLDDDD", "example": "PK1234"}
+]

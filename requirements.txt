@@ -1,0 +1,11 @@
+opencv-python-headless>=4.8
+numpy>=1.24
+scipy>=1.10
+pillow>=10.0
+
+# optional: the trained sequence recogniser (CPU build is much smaller)
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+# torch>=2.0
+
+# optional second OCR opinion; also needs the tesseract binary on PATH
+# pytesseract>=0.3.10
